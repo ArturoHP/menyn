@@ -1,0 +1,8 @@
+{
+  "name": "Menyn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4c69aff6"
+}

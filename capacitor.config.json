@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Menyn",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
